@@ -26,6 +26,7 @@
     "bootstrap": "^4.6.0",
     "braintree": "^3.3.0",
     "braintree-web-drop-in-react": "^1.2.1",
+    "caniuse-lite": "^1.0.30001260",
     "clsx": "^1.1.1",
     "file-saver": "^2.0.5",
     "font-awesome": "^4.7.0",
